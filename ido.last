@@ -1,0 +1,31 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/darrenxyli/playground/" . "gopath/")
+ ("/Users/darrenxyli/" . "playground/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/darrenxyli/playground/gopath/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "hello.go"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/darrenxyli/playground/gopath/" (21883 31443 0 0) "url.go" "test.go" "src/" "pkg/" "lfu.go" "hello.go" "bin/" ".DS_Store" "../" "./")
+
+ ("/Users/darrenxyli/playground/" (21884 32475 0 0) "stable/" "spider/" "phantomServer.js" "mails/" "gopath/" "github/" "getGmail.py" "development/" "bitbucket/" "aws.py" ".idea/" ".gradle/" ".DS_Store" "../" "./")
+
+ ("/Users/darrenxyli/" (21884 35303 0 0) "VirtualBox VMs/" "Samsung/" "Public/" "playground/" "Pictures/" "Music/" "Movies/" "Library/" "Google Drive/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "bash_profile_cp" "Applications (Parallels)/" "Applications/" "AndroidStudioProjects/" "android-sdks/" ".zshrc.pre-oh-my-zsh" ".zshrc-e" ".zshrc" ".zsh_history" ".zsh-update" ".zcompdump-Darren’s MacBook Pro-5.0.5" ".xbmc/" ".vagrant.d/" ".twitter_oauth" ".Tribler/" ".Trash/" ".swt/" ".subversion/" ".ssh/" ".smb/" ".ShadowsocksX/" ".rnd" ".rediscli_history" ".pylint.d/" ".poclbm" ".oh-my-zsh/" ".npm/" ".node-gyp/" ".mplayer/" ".mozilla/" ".mono/" ".matplotlib/" ".matlab/" ".local/" ".kodi/" ".gradle/" ".gitconfig" ".git-credentials" ".emacs.d/" ".DS_Store" ".dropbox/" ".docker/" ".cups/" ".config/" ".codeintel/" ".cocoapods/" ".CFUserTextEncoding" ".cache/" ".boot2docker/" ".bash_profile~" ".bash_profile" ".bash_history" ".atom/" ".anyconnect" ".AndroidStudio1.2/" ".android/" ".498743.padl" "../" "./")
+
+ ("/Users/darrenxyli/.emacs.d/" (21884 35091 0 0) "var/" "test-startup.sh" "site-lisp/" "recentf" "README.md" "org-clock-save.el" "lisp/" "LICENSE" "init.el" "history" "elpa/" "ditaa0_9.jar" "custom.el" "auto-save-list/" "ac-comphist.dat" ".travis.yml" ".smex-items" ".session" ".gitignore" ".git/" ".agignore" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
